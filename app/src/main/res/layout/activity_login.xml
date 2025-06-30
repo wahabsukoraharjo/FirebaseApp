@@ -61,4 +61,11 @@
         android:textAlignment="center"
         android:layout_marginTop="8dp" />
 
+    <ImageView
+        android:layout_marginTop="30dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_fireabase" />
+
 </LinearLayout>
